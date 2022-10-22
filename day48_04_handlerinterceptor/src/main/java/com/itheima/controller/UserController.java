@@ -23,6 +23,7 @@ public class UserController {
         System.out.println("sayHello方法被调用了...");
         System.out.println("sayHello方法被调用了...");
         System.out.println("sayHello方法被调用了...");
+        System.out.println("添加master分支");
 
 
         return "success";

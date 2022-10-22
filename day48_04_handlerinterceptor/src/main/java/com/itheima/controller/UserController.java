@@ -15,6 +15,14 @@ public class UserController {
     @RequestMapping("/sayHello")
     public String sayHello(){
         System.out.println("sayHello方法被调用了...");
+        System.out.println("sayHello方法被调用了...");
+        System.out.println("sayHello方法被调用了...");
+        System.out.println("sayHello方法被调用了...");
+        System.out.println("sayHello方法被调用了...");
+        System.out.println("sayHello方法被调用了...");
+        System.out.println("sayHello方法被调用了...");
+        System.out.println("sayHello方法被调用了...");
+        System.out.println("sayHello方法被调用了...");
 
 
         return "success";
